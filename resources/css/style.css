@@ -36,9 +36,9 @@ a {
 }
 
 li {
+  font-weight: bold;
   list-style-type: none;
   line-height: 2;
-  font-weight: bold;
 }
 
 .design {
