@@ -22,8 +22,8 @@ h2 {
 }
 
 h3 {
-  font-size: 23px:
-  font-weight: bold:
+  font-size: 23px;
+  font-weight: bold;
 }
 
 p {
@@ -55,6 +55,7 @@ footer {
   color: white;
   text-align: left;
   background-color: dimgray;
+  font-weight: bold;
 }
 
 .copyright {
