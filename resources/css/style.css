@@ -15,11 +15,25 @@ h1 {
   font-weight: bold;
 }
 
-nav {
-  font-size: 18px
+h2 {
+  font-size: 32px;
+  font-weight: bold;
 }
 
-ul{
+h3 {
+  font-size: 23px:
+  font-weight: bold:
+}
+
+p {
+  font-size: 14px;
+}
+a {
+  font-size: 18px;
+  color: white;
+}
+
+li {
   list-style-type: none;
   line-height: 2;
 }
