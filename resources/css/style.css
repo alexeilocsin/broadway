@@ -15,20 +15,24 @@ h1 {
   font-size: 70px;
   color: white;
   font-weight: bold;
+  text-align: center;
 }
 
 h2 {
   font-size: 32px;
   font-weight: bold;
+  text-align: center;
 }
 
 h3 {
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
 }
 
 p {
   font-size: 14px;
+  text-align: center;
 }
 
 a {
