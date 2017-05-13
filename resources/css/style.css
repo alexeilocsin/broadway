@@ -1,7 +1,13 @@
 h1 {
-  font-family: Helvetica; sans-serif;
-  font-size: 18px;
+  font-family: Helvetica, sans-serif;
+  font-size: 70px;
   color: white;
+}
+
+ul {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px
+  color: white
 }
 
 header {
