@@ -1,16 +1,25 @@
-h1 {
-  font-family: Helvetica, sans-serif;
-  font-size: 70px;
-  color: white;
-}
 
-ul {
+body {
   font-family: Helvetica, sans-serif;
-  font-size: 18px
-  color: white
+  text-align: center;
 }
 
 header {
   background-image: url(/Users/alexei/Documents/Web_Design/Codeacademy/Projects/broadway/resources/images/the-flatiron-building.png);
-  text-align: center;
+
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+}
+
+nav {
+  font-size: 18px
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
 }
