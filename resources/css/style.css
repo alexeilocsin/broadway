@@ -6,6 +6,7 @@ body {
 
 header {
   background-image: url(../images/the-flatiron-building.png);
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -56,6 +57,7 @@ footer {
   color: white;
   text-align: left;
   background-color: dimgray;
+  background-position: center;
   font-weight: bold;
 }
 
